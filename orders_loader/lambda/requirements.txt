@@ -1,0 +1,2 @@
+boto3==1.17.57
+aws-lambda-powertools==1.14.0
